@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/YuichiroIijima/typescript-for-javascript-develop/issues"
   },
-  "homepage": "https://github.com/YuichiroIijima/typescript-for-javascript-develop#readme"
+  "homepage": "https://github.com/YuichiroIijima/typescript-for-javascript-develop#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
