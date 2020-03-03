@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/YuichiroIijima/typescript-for-javascript-develop#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
   }
 }
