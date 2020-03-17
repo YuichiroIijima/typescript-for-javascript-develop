@@ -10,3 +10,4 @@ function bmi(height: number, weight: number): number {
 }
 
 console.log(bmi(1.72, 60));
+
